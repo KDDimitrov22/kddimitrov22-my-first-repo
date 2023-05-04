@@ -1,4 +1,7 @@
 # This is my repo
-## This is some description
+## No description
 
 This is a text
+
+## A funny text
+ - nice :/
