@@ -5,6 +5,4 @@ This is a text
 
 ## A funny text
  - nice :/ 
-  | 
-  |
- o o
+ Whoever touches this code is ultra gay
